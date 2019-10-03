@@ -1,0 +1,25 @@
+﻿  textureclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\textureclass.h(12): fatal error C1083: Cannot open include file: 'd3dx11tex.h': No such file or directory
+  textclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\fontclass.h(12): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  terrainshaderclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\terrainshaderclass.h(12): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  terrainclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\textureclass.h(12): fatal error C1083: Cannot open include file: 'd3dx11tex.h': No such file or directory
+  systemclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  main.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  lightclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\lightclass.h(11): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  fontshaderclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\fontshaderclass.h(12): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  fontclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\fontclass.h(12): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  d3dclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  cameraclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\cameraclass.h(11): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  applicationclass.cpp
+\\stuhome\homedrive5$\1500855\desktop\procedural methods\1500855 cmp305 coursework\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  Generating Code...
